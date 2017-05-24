@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "注释转换", "注释转换\注释转换.vcproj", "{905C4A42-E2C3-4FE3-86C9-216C62074D91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{905C4A42-E2C3-4FE3-86C9-216C62074D91}.Debug|Win32.ActiveCfg = Debug|Win32
+		{905C4A42-E2C3-4FE3-86C9-216C62074D91}.Debug|Win32.Build.0 = Debug|Win32
+		{905C4A42-E2C3-4FE3-86C9-216C62074D91}.Release|Win32.ActiveCfg = Release|Win32
+		{905C4A42-E2C3-4FE3-86C9-216C62074D91}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
